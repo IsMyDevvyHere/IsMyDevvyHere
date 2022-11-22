@@ -1,4 +1,4 @@
 HOW TO RUN THE MACRO
 
-double click into "LunaClicker.exe"
+double click into "WindyClient.exe"
 
